@@ -1,0 +1,3 @@
+# This is my first project from scratch! Wish me luck ^-^
+
+I'm still improving...
